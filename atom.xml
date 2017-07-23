@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://codo.xyz/"/>
-  <updated>2017-07-23T14:44:15.000Z</updated>
+  <updated>2017-07-23T14:47:14.000Z</updated>
   <id>http://codo.xyz/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://codo.xyz/2017/07/19/start-hexo-life/"/>
     <id>http://codo.xyz/2017/07/19/start-hexo-life/</id>
     <published>2017-07-19T06:21:20.000Z</published>
-    <updated>2017-07-23T14:44:15.000Z</updated>
+    <updated>2017-07-23T14:47:14.000Z</updated>
     
     <content type="html"><![CDATA[<p>一直都属于意念学习，用了GitHub，知道可以搭建免费的website，但只了解了大概的信息，都没尝试去动手做，直到最近才下决定要实际动手做一下，现在算是给完成了，但中间遇到了很多动手之前完全没有意识到的问题，下面就来描述一下其中遇到的问题吧</p>
-<h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><h2 id="github帐号"><a href="#github帐号" class="headerlink" title="github帐号"></a>github帐号</h2><p>前往<a href="https://github.com/" target="_blank" rel="external">GitHub</a>注册帐号,登录之后点击右上角加号并选择,如下图</p>
+<h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><h2 id="github帐号"><a href="#github帐号" class="headerlink" title="github帐号"></a>github帐号</h2><p>前往<a href="https://github.com/" target="_blank" rel="external">GitHub</a>注册帐号，登录之后点击右上角加号并选择，如下图</p>
 <p><img src="http://codo.xyz/postimgs/20170719-222541.png" alt="new repository" style="width:300px"></p>
 <p>然后就是创建一个git仓库，命名可以类似：用户名.github.io，如下图</p>
 <p><img src="http://codo.xyz/postimgs/20170719-232013.png" alt="repository name" style="width:300px"></p>
